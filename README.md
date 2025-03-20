@@ -1,4 +1,4 @@
-Collection of artwork for Serpent OS
+Collection of artwork for AerynOS
 
 Images (unsplash license)
 
