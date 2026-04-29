@@ -8,4 +8,4 @@ install:
     @install -v -m 00644 *.xml {{destdir}}/usr/share/gnome-background-properties/.
     @install -v -m 00644 *.jpg {{destdir}}/usr/share/wallpapers/aerynos/.
     @install -v -m 00644 *.png {{destdir}}/usr/share/wallpapers/aerynos/.
-    @ln -srvf {{destdir}}/usr/share/wallpapers {{destdir}}/usr/share/backgrounds
+    @ln -sv {{destdir}}/usr/share/wallpapers {{destdir}}/usr/share/backgrounds
